@@ -1,12 +1,12 @@
-Angely C. Suarez DeJesus - Academic Portfolio
+Academic Portfolio
 ---
 
 ![image](https://github.com/user-attachments/assets/cba8e47c-cd75-41f8-9a31-e9ca07172ad8)
 
 
 
-# Your Name
-## Your Academic Position
+# Angely C. Suarez DeJesus
+## PhD Student-Text & Technology Program, University of Central Florida
 
 ### About Me
 Briefly introduce yourself and your academic interests.
