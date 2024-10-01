@@ -3,7 +3,7 @@ Academic Portfolio
 
 <![image](https://github.com/user-attachments/assets/cba8e47c-cd75-41f8-9a31-e9ca07172ad8) width="128" height="128"
 
-<img src="[src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/user-attachments/assets/cba8e47c-cd75-41f8-9a31-e9ca07172ad8)" width="100" height="100"/>
+<img src="(https://github.com/user-attachments/assets/cba8e47c-cd75-41f8-9a31-e9ca07172ad8)" width="100" height="100"/>
 
 
 
