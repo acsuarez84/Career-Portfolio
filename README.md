@@ -3,7 +3,7 @@ Academic Portfolio
 
 
 
-<img src=" https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200"/>
+<img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200"/>
 
 
 
