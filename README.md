@@ -31,6 +31,4 @@ Briefly introduce yourself and your academic interests.
 
 ### Follow Me
 
-- [Bluesky](https://bsky.app/your_bluesky_handle)
-- [LinkedIn](https://linkedin.com/in/your_linkedin_profile)
-- [GitHub](https://github.com/your_github_username)
+- [GitHub]([https://github.com/your_github_username](https://acsuarez84.github.io/Career-Portfolio/)
