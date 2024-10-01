@@ -31,5 +31,6 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 - Office: Your office location
 
 ### Follow Me
+[Link Text](https://example.com)
 
 - [GitHub]([https://github.com/your_github_username](https://acsuarez84.github.io/Career-Portfolio/)
