@@ -12,7 +12,10 @@
 ## PhD Student-Text & Technology Program, University of Central Florida
 
 ### About Me
-Briefly introduce yourself and your academic interests.
+My name is Angely Suarez DeJesus and I am currently pursuing a PhD in the Text & Technology doctoral program at  the University of Central Florida. 
+My interests are within the areas of rhetoric and composition. It entails the exploration of the ways in which AI algorithms managed by content moderators in large language models affect Latino women and other BIPOC groups  through textual rhetoric.
+
+Other areas of interest are in the field of technical professional communication, digital media, and digital humanities.
 
 ### Research Interests
 - Technical Professional Communication
