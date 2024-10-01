@@ -1,6 +1,4 @@
-theme: jekyll
-
-Academic Portfolio
+# Academic Portfolio
 ---
 
 
