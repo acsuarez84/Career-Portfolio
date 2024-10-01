@@ -1,7 +1,7 @@
 Academic Portfolio
 ---
 
-<![image](https://github.com/user-attachments/assets/cba8e47c-cd75-41f8-9a31-e9ca07172ad8) width="128" height="128"
+
 
 <img src="(https://github.com/user-attachments/assets/cba8e47c-cd75-41f8-9a31-e9ca07172ad8)" width="100" height="100"/>
 
