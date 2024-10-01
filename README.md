@@ -1,7 +1,8 @@
 title: Angely C. Suarez DeJesus - Academic Portfolio
 ---
 
-![Featured Image](![image](https://github.com/user-attachments/assets/a49f4e93-27e7-42a4-b603-8e7fd3ef1133)
+![Featured Image](![image](![Profile pic](https://github.com/user-attachments/assets/cba8e47c-cd75-41f8-9a31-e9ca07172ad8)
+
 
 
 # Your Name
