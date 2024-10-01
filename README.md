@@ -15,18 +15,18 @@ Academic Portfolio
 Briefly introduce yourself and your academic interests.
 
 ### Research Interests
-- Topic 1
-- Topic 2
-- Topic 3
+- Technical Professional Communication
+- Digital Humanities
+- Digital Media
 
-### Publications and/or Conferences
+### Resume
 
 1. Paper Title, Journal, Year
 2. Another Paper Title, Conference, Year
 
 ### Contact
 
-- Email: your-email@example.com
+- Email: an285811@ucf.edu
 - Office: Your office location
 
 ### Follow Me
