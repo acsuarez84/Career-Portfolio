@@ -1,16 +1,9 @@
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 # Academic Portfolio
 ---
 
 
 <img align="left">
 <img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200"/>
-
-
-
 
 # Angely C. Suarez DeJesus
 ## PhD Student-Text & Technology Program, University of Central Florida
