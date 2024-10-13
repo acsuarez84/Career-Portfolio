@@ -1,6 +1,10 @@
 # Academic Portfolio
 ---
-
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: T&T Sample Site
+description: T&T sample site for intro
 
 <img align="left">
 <img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200"/>
