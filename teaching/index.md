@@ -1,14 +1,9 @@
----
-layout: default
-title: Teaching Experience
----
-
 # Teaching Experience
 
-## Course 1
-- Description
-- Semester Taught
+## Celebration High School
+- Pre-IB English, 10th Grade
+- August 2022
 
-## Course 2
-- Description
-- Semester Taught
+## Celebration High School
+- Lyrical Analytics Clubs
+- August 2022 - April 2023
