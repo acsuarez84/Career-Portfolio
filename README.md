@@ -29,4 +29,4 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 ### Follow Me
 [M.A in Educational Leadership Course Projects](https://sites.google.com/view/angely-suarez-dejesus/home)
 
-- [GitHub]([https://github.com/your_github_username](https://acsuarez84.github.io/Career-Portfolio/)
+- [GitHub](https://acsuarez84.github.io/Career-Portfolio/)
