@@ -1,11 +1,8 @@
 # Angely C. Suarez DeJesus - Academic Portfolio
+## PhD Student-Text & Technology Program, University of Central Florida
 ---
 <img align="left"> 
 <img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="300" height="300"/>
-
-
-## PhD Student-Text & Technology Program, University of Central Florida
-
 ### About Me
 My name is Angely Suarez DeJesus and I am currently pursuing a PhD in the Text & Technology doctoral program at  the University of Central Florida. 
 My interests are within the areas of rhetoric and composition. It entails the exploration of the ways in which AI algorithms managed by content moderators in large language models affect Latino women and other BIPOC groups  through textual rhetoric.
