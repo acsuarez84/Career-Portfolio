@@ -1,13 +1,8 @@
----
-layout: default
-title: Projects
----
-
 # Projects
 
 ## Project 1
-- Project Description
-- Technologies Used
+- Network Mapping
+- Google Sites
 
 ## Project 2
 - Project Description
