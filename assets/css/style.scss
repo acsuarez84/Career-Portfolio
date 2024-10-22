@@ -4,51 +4,52 @@
 @import "{{ site.theme }}";
 
 $mycolor: black;
+$headingcolor; black
 
 header {
 
-    background: black;
+    background: $mycolor;
 
 }
 
 header a.button {
 
-    background: white
+    background: $mycolor
 
 }
 
 aside a.button {
 
-    background: black
+    background: $mycolor
 
 }
 
 #main-content h2:before {
 
-    color: #1304e0;
+    color: $mycolor;
 
 }
 
 #main-content h1:before {
 
-    color: black;
+    color: $mycolor;
 
 }
 
 #main-content h3 {
 
-    color: black;
+    color: $mycolor;
 
   }
 
   #main-content h4 {
 
-    color: black;
+    color: $mycolor;
 
   }
 
   #main-content h6 {
 
-    color: black;
+    color: $mycolor;
 
   }
