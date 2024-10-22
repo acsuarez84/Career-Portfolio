@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-$bgcolor: black;
+$mycolor: black;
 
 header {
 
@@ -13,13 +13,13 @@ header {
 
 header a.button {
 
-    background: green
+    background: white
 
 }
 
 aside a.button {
 
-    background: darkgreen
+    background: white
 
 }
 
