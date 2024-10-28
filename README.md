@@ -12,7 +12,7 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 - Digital Media
 
 ### Curriculum Vitae 
-- [Curriculum Vitae] (https://osceolak12-my.sharepoint.com/personal/suarezda_osceola_k12_fl_us/Documents/Desktop/Angely%20Suarez%20CV.docx?web=1)
+- [Curriculum Vitae](https://osceolak12-my.sharepoint.com/personal/suarezda_osceola_k12_fl_us/Documents/Desktop/Angely%20Suarez%20CV.docx?web=1)
 
 1. Paper Title, Journal, Year
 2. Another Paper Title, Conference, Year
