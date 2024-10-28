@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: Teaching Experience
 title: Teaching Experience
 ---
 
