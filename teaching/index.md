@@ -3,8 +3,6 @@ layout: default
 title: Teaching Experience
 ---
 
-# Teaching Experience
-
 ## Celebration High School
 - Pre-IB English, 10th Grade
 - August 2022
