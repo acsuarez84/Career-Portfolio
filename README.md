@@ -12,7 +12,7 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 - Digital Media
 
 ### Experience
-- [Curriculum Vitae](C:/Users/Suarezda/Downloads/Angely Suar)
+- [Curriculum Vitae](Angely Suarez CV.pdf)
 
 1. Paper Title, Journal, Year
 2. Another Paper Title, Conference, Year
