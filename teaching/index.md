@@ -1,5 +1,5 @@
 ---
-layout: Teaching Experience
+layout: Title
 title: Teaching Experience
 ---
 
