@@ -1,3 +1,8 @@
+---
+layout: default
+title: Teaching Experience
+---
+
 # Teaching Experience
 
 ## Celebration High School
