@@ -12,7 +12,7 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 - Digital Media
 
 ### Experience
-- [Curriculum Vitae](file:///C:/Users/Suarezda/Downloads/Prompt%20ideas.pdf)
+- [Curriculum Vitae](file:/C:/Users/Suarezda/Downloads/Prompt%20ideas.pdf)
 
 1. Paper Title, Journal, Year
 2. Another Paper Title, Conference, Year
