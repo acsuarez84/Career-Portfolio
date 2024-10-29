@@ -11,8 +11,8 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 - Digital Humanities
 - Digital Media
 
-### Experience
-- [Curriculum Vitae](https://office.com/webapps"</iframe>)
+### Curriculum Vitae
+- Click here
 
 1. Paper Title, Journal, Year
 2. Another Paper Title, Conference, Year
@@ -27,6 +27,3 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 
 - [Github Career Portfolio](https://acsuarez84.github.io/Career-Portfolio/)
  
-                <small>Download</small>
-                .tar.gz file
-              </a>
