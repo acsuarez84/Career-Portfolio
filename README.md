@@ -12,7 +12,7 @@ My interests are within the areas of rhetoric and composition. It entails the ex
 - Digital Media
 
 ### Experience
-- [Curriculum Vitae](<iframe src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2Facsuarez84%2FCareer%2DPortfolio%2Frefs%2Fheads%2Fmain%2FAngely%2520Suarez%2520CV%2Edocx&amp;wdPrint=0&amp;wdEmbedCode=0" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>)
+- [Curriculum Vitae](src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fraw%2Egithubusercontent%2Ecom%3A443%2Facsuarez84%2FCareer%2DPortfolio%2Frefs%2Fheads%2Fmain%2FAngely%2520Suarez%2520CV%2Edocx&amp;wdPrint=0&amp;wdEmbedCode=0" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps"</iframe>)
 
 1. Paper Title, Journal, Year
 2. Another Paper Title, Conference, Year
