@@ -1,3 +1,0 @@
-# Curriculum Vitate
-
-## Educational Background
