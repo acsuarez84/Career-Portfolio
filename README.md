@@ -64,7 +64,6 @@
 ## Teaching Enhancement Activities
 **FLIBS Language and Literature Category 1 Workshop**  
 *Florida League of International Baccalaureate Schools* 
-
 Implementation of instructional strategies in IB, hands-on student essay/oral rubric evaluations, selections of literary and non-literary works to represent global issues, and differentiation methods of lesson implementation. 
 
 
