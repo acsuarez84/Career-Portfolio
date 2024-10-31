@@ -1,24 +1,101 @@
-### PhD Student-Text & Technology, University of Central Florida
-<img align="left"> 
-<img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200"/> 
+# Angely C. Suarez DeJesus 
+[Kissimmee, Florida]   
+[an285811@ucf.edu]  
+[[Your LinkedIn Profile or Personal Website](https://sites.google.com/view/angely-suarez-dejesus/home)]
 
-### About Me
-I am currently pursuing a PhD in the Text & Technology doctoral program at  the University of Central Florida. 
-My interests are within the areas of rhetoric and composition. It entails the exploration of the ways in which Generative AI algorithms managed by content moderators in large language models affect Latino women and other BIPOC groups through textual rhetoric. Furthermore, I am exploring the trend in publication of Latino women authors in academic forums. 
+---
 
-### Research Interests
-- Technical Professional Communication
-- Digital Humanities
-- Digital Media
+## Education
+**Master of Arts**, Educational Leadership, College Teaching/Higher Education Track 
+*University of Central Florida, Orlando*  
+*May 2021 – May 2024*  
 
-### Curriculum Vitae
-- Click here
+**Certificate of Completion**, Educators Preparation Institute
+*Valencia College, Orlando*  
+*August 2021 – May 2022*  
 
-### Contact
-- Email: an285811@ucf.edu
+**Master of Arts**, Early Childhood Education
+*CUNY City College, New York*  
+*May 2025 – May 2015*  
+*18 Credits Obtained*
 
-### Follow Me
-- [M.A in Educational Leadership Course Projects](https://sites.google.com/view/angely-suarez-dejesus/home)
+**Bachelor of Arts**, Sociology 
+*SUNY University at Buffalo, New York*  
+*August 2005 – May 2008*  
+
+---
+
+## Teaching Experience
+
+### ELA/PIB/IB Teacher, 10th grade
+**School District of Osceola**, Kissimmee, Florida 
+*August 2023 – Present*  
+
+
+### ELA Teacher, 8th grade
+**Orange County Public Schools**, Orlando, Florida  
+*August 2022 – May 2023*  
+
+
+### English Literature Teacher, 8th-12th grade
+**Calvario City Christian Academy & Preschool**, Orlando, Florida  
+*August 2020 – May 2022* 
+
+
+## Non-Educational Experience
+**Director of Building Operations**
+*Brooklyn Children's Museum, Brooklyn, New York*  
+*April 2016 – June 2018*
+
+
+**Director of Facilities**
+*Lutheran Social Services of Metropolitan New York, New York*  
+*February 2013 – February 2016*
+
+---
+
+## Professional Licensure & Certifications
+- Certified 6-12 English Educator , Florida Department of Education, 2022-2026
+- Certified K-12 Physical Education, Florida Department of Education, 2021-2026
+- Certified 6-12 Social Science Educator, Florida Department of Education, 2021-2026
+
+---
+
+## Teaching Enhancement Activities
+**FLIBS Language and Literature Category 1 Workshop**  
+*Florida League of International Baccalaureate Schools* 
+Implementation of instructional strategies in IB, hands-on student essay/oral rubric evaluations, selections of literary and non-literary works to represent global issues, and differentiation methods of lesson implementation. 
+
+
+**Using Effective Instructional Strategies**  
+*Orange County Public Schools* 
+Implementation of instructional strategies in ELA, meeting highest standards data, inclusive practices, and differentiation methods of lesson implementation. 
+
+
+**Professional Ethics for Florida Educators**  
+*Orange County Public Schools* 
+Understand ethical practices and implications of ethical breaches, apply ethical rules to various situational samples, analyze when to use specific ethical boundaries with students and adult staff. 
+
+
+**Youth Mental Health/First Aid**  
+*Orange County Public Schools* 
+Understand the definition of mental health, the implications that reflect mental health, assessment of potential mental health issues in studies, approach and assessment strategies, policies for referrals and notifications. 
+
+
+**ESOL Domain 4: Curriculum Online**  
+*Orange County Public Schools* 
+Learn best practices and strategies of providing online resources for ESOL students based on ACCESS data and language levels. 
+
+
+**ESOL Domain 5: Assessment Online**  
+*Orange County Public Schools* 
+Learn best practices and strategies of providing assessments for ESOL students based on ACCESS data and language levels. 
+
+---
+
+## References
+Available upon request.
+
 
 - [Github Career Portfolio](https://acsuarez84.github.io/Career-Portfolio/)
  
