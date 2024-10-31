@@ -3,7 +3,7 @@
 </div>
 
 <p>
-# Curriculum Vitae
+    Curriculum Vitae
 </p>
 
 [Kissimmee, Florida]   
