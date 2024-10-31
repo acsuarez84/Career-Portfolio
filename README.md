@@ -97,5 +97,5 @@
 Available upon request.
 
 
-- [Github Career Portfolio](https://acsuarez84.github.io/Career-Portfolio/)
+- [Text & Tech Portfolio](https://acsuarez84.github.io/Text-Tech-Portfolio/)
  
