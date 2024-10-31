@@ -64,31 +64,37 @@
 ## Teaching Enhancement Activities
 **FLIBS Language and Literature Category 1 Workshop**  
 *Florida League of International Baccalaureate Schools* 
+
 Implementation of instructional strategies in IB, hands-on student essay/oral rubric evaluations, selections of literary and non-literary works to represent global issues, and differentiation methods of lesson implementation. 
 
 
 **Using Effective Instructional Strategies**  
 *Orange County Public Schools* 
+
 Implementation of instructional strategies in ELA, meeting highest standards data, inclusive practices, and differentiation methods of lesson implementation. 
 
 
 **Professional Ethics for Florida Educators**  
 *Orange County Public Schools* 
+
 Understand ethical practices and implications of ethical breaches, apply ethical rules to various situational samples, analyze when to use specific ethical boundaries with students and adult staff. 
 
 
 **Youth Mental Health/First Aid**  
 *Orange County Public Schools* 
+
 Understand the definition of mental health, the implications that reflect mental health, assessment of potential mental health issues in studies, approach and assessment strategies, policies for referrals and notifications. 
 
 
 **ESOL Domain 4: Curriculum Online**  
 *Orange County Public Schools* 
+
 Learn best practices and strategies of providing online resources for ESOL students based on ACCESS data and language levels. 
 
 
 **ESOL Domain 5: Assessment Online**  
 *Orange County Public Schools* 
+
 Learn best practices and strategies of providing assessments for ESOL students based on ACCESS data and language levels. 
 
 ---
