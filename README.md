@@ -1,11 +1,13 @@
-<img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200" style="float: left; margin-right: 20px;" />
+<img src="https://github.com/user-attachments/assets/ffe372ef-71ce-4491-8097-48fa7006a7ea" width="200" height="200" style="float: left; margin-right: 20px;"/>
 
 # Curriculum Vitae
+
 Kissimmee, Florida  
 an285811@ucf.edu  
 [Personal Website](https://sites.google.com/view/angely-suarez-dejesus/home)
 
-<p style="clear: both;"></p>
+<div style="clear: both;"></div>
+
 
 
 ---
